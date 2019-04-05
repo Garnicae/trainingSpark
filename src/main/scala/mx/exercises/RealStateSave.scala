@@ -27,5 +27,19 @@ object RealStateSave{
     //realEstateDataSet.write.mode(SaveMode.Overwrite).save("out/realEstate")
     //realEstateDataSet.write.mode(SaveMode.Overwrite).save("hdfs://quickstart.cloudera:8020/user/hive/warehouse/training.db/realestate/")
 
+    val realEstateSelect = realEstateDataSet.select("location", "bedrooms")
+      .where("bedrooms = 3")
+
+    realEstateSelect.show()
+
+    val realEstateSum = realEstateDataSet.groupBy("location").sum("bedrooms")
+        .orderBy("location")
+
+    realEstateSum.show()
+
+
+    session.stop()
+
+
   }
 }

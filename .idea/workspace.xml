@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="846af1d8-ef4b-479b-a10d-76fe0dcd3c1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/mx/exercises/RealStateSave.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/mx/exercises/ReduceExample.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/mx/exercises/SameHost.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/mx/models/Models.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/mx/exercises/RealEstateLoad.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/mx/exercises/StackOverFlowSurvey.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/mx/exercises/RealStateSave.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/mx/exercises/RealStateSave.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/RealStateSave$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/RealStateSave$.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,15 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/mx/tests/Test01.scala">
           <provider selected="true" editor-type-id="text-editor">
@@ -48,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/mx/models/Models.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <state relative-caret-position="90">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -57,17 +48,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/mx/exercises/SameHost.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+            <state relative-caret-position="330">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/mx/exercises/RealStateSave.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+            <state relative-caret-position="195">
+              <caret line="37" column="24" lean-forward="true" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -76,9 +67,30 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/mx/exercises/RealEstateLoad.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/mx/exercises/StackOverFlowSurvey.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39">
+              <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/mx/exercises/ReduceExample.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="225">
               <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
             </state>
           </provider>
@@ -124,6 +136,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/mx/exercises/ReduceExample.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/mx/exercises/SameHost.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/mx/exercises/RealStateSave.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mx/exercises/RealEstateLoad.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mx/exercises/StackOverFlowSurvey.scala" />
       </list>
     </option>
   </component>
@@ -148,7 +162,7 @@
             <path>
               <item name="training" type="b2602c69:ProjectViewProjectNode" />
               <item name="training" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="in" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="training" type="b2602c69:ProjectViewProjectNode" />
@@ -198,12 +212,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554402155497" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554485499922" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -221,9 +235,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RealStateSave">
-    <configuration name="RealEstateByAnything" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="RealEstateByAnything" />
+  <component name="RunManager" selected="Application.StackOverFlowSurvey">
+    <configuration name="RealEstateLoad" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="RealEstateLoad" />
       <module name="training" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -250,8 +264,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="WordCount" />
+    <configuration name="StackOverFlowSurvey" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="StackOverFlowSurvey" />
       <module name="training" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -259,11 +273,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackOverFlowSurvey" />
+        <item itemvalue="Application.RealEstateLoad" />
         <item itemvalue="Application.RealStateSave" />
         <item itemvalue="Application.SameHost" />
         <item itemvalue="Application.ReduceExample" />
-        <item itemvalue="Application.WordCount" />
-        <item itemvalue="Application.RealEstateByAnything" />
       </list>
     </recent_temporary>
   </component>
@@ -282,8 +296,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="25" width="1028" height="617" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30753565" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23319755" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -292,7 +307,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28600407" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.51724136" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -357,10 +372,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/in/RealEstate.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/nasa_logs_same_hosts.csv/part-00001" />
+    <entry file="file://$PROJECT_DIR$/out/realEstate/part-00000-7657ff48-d7b4-40b3-9cba-a6f429170082.snappy.parquet">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/nasa_logs_same_hosts.csv/part-00000">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in/nasa_19950701.tsv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in/nasa_19950801.tsv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mx/tests/Test01.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mx/exercises/RealEstateByAnything.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mx/exercises/ReduceExample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -378,74 +440,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/mx/exercises/RealEstateByAnything.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/in/RealEstate.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="42" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/mx/tests/Test01.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/mx/exercises/ReduceExample.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/nasa_logs_same_hosts.csv/part-00000">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-149830" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/nasa_logs_same_hosts.csv/part-00001">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-149830" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/in/nasa_19950701.tsv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/mx/exercises/SameHost.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        <state relative-caret-position="330">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/realEstate/part-00000-7657ff48-d7b4-40b3-9cba-a6f429170082.snappy.parquet">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/mx/models/Models.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="90">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mx/exercises/RealEstateLoad.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/mx/exercises/RealStateSave.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        <state relative-caret-position="195">
+          <caret line="37" column="24" lean-forward="true" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mx/exercises/StackOverFlowSurvey.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
